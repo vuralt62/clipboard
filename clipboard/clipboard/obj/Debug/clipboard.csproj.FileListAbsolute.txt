@@ -1,0 +1,10 @@
+C:\Users\szutech1\source\repos\clipboard\clipboard\obj\Debug\clipboard.csprojAssemblyReference.cache
+C:\Users\szutech1\source\repos\clipboard\clipboard\obj\Debug\clipboard.Form1.resources
+C:\Users\szutech1\source\repos\clipboard\clipboard\obj\Debug\clipboard.Properties.Resources.resources
+C:\Users\szutech1\source\repos\clipboard\clipboard\obj\Debug\clipboard.csproj.GenerateResource.cache
+C:\Users\szutech1\source\repos\clipboard\clipboard\obj\Debug\clipboard.csproj.CoreCompileInputs.cache
+C:\Users\szutech1\source\repos\clipboard\clipboard\bin\Debug\clipboard.exe.config
+C:\Users\szutech1\source\repos\clipboard\clipboard\bin\Debug\clipboard.exe
+C:\Users\szutech1\source\repos\clipboard\clipboard\bin\Debug\clipboard.pdb
+C:\Users\szutech1\source\repos\clipboard\clipboard\obj\Debug\clipboard.exe
+C:\Users\szutech1\source\repos\clipboard\clipboard\obj\Debug\clipboard.pdb
